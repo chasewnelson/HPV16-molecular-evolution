@@ -54,17 +54,17 @@ Scripts are arranged by Figure, and therefore by analysis. Every effort has been
 
 		1. PAP
 
-				$ FASTA_add_metadata.py --seq_file=seq/HPV16_PAP_20200813.N-30.fasta --meta_file=seq_metadata/Lisa_hpv16meth.20190723.tsv --join_key="MERGE_ID" --out_file=seq/HPV16_PAP_20200813.N-30_wMeta.fa > FASTA_add_metadata_PAP.out
+				FASTA_add_metadata.py --seq_file=seq/HPV16_PAP_20200813.N-30.fasta --meta_file=seq_metadata/Lisa_hpv16meth.20190723.tsv --join_key="MERGE_ID" --out_file=seq/HPV16_PAP_20200813.N-30_wMeta.fa > FASTA_add_metadata_PAP.out
 
-				$ FASTA_add_metadata.py --seq_file=seq/HPV16_PAP_20200813.N-30_wMeta.fa --meta_file=seq_metadata/allPAP_HPV16_sublineage_geneticancestry.tsv --join_key="PAP_ID" --out_file=seq/HPV16_PAP_20200813.N-30_wMeta2.fa --meta_label=METADATA2 > FASTA_add_metadata_PAP2.out 
+				FASTA_add_metadata.py --seq_file=seq/HPV16_PAP_20200813.N-30_wMeta.fa --meta_file=seq_metadata/allPAP_HPV16_sublineage_geneticancestry.tsv --join_key="PAP_ID" --out_file=seq/HPV16_PAP_20200813.N-30_wMeta2.fa --meta_label=METADATA2 > FASTA_add_metadata_PAP2.out 
 
 		2. SUCCEED
 
-				$ FASTA_add_metadata.py --seq_file=seq/HPV16_Succeed_20181123.N-30.fasta --meta_file=seq_metadata/HPV16_SUCCEED_pheno_lineageV3.1.tsv --join_key="ID2,ID" --out_file=seq/HPV16_Succeed_20181123.N-30_wMeta.fa > FASTA_add_metadata_SUCCEED.out
+				FASTA_add_metadata.py --seq_file=seq/HPV16_Succeed_20181123.N-30.fasta --meta_file=seq_metadata/HPV16_SUCCEED_pheno_lineageV3.1.tsv --join_key="ID2,ID" --out_file=seq/HPV16_Succeed_20181123.N-30_wMeta.fa > FASTA_add_metadata_SUCCEED.out
 
 		3. IARC
 
-				$ FASTA_add_metadata.py --seq_file=seq/HPV16_IARC_20200717.N-30.fasta --meta_file=seq_metadata/HPV16_lineages_phenoIARC2.tsv --join_key="NCI_repeat,NCI Sample ID" --out_file=seq/HPV16_IARC_20200717.N-30_wMeta.fa > FASTA_add_metadata_IARC.out
+				FASTA_add_metadata.py --seq_file=seq/HPV16_IARC_20200717.N-30.fasta --meta_file=seq_metadata/HPV16_lineages_phenoIARC2.tsv --join_key="NCI_repeat,NCI Sample ID" --out_file=seq/HPV16_IARC_20200717.N-30_wMeta.fa > FASTA_add_metadata_IARC.out
 
 
 
