@@ -3,7 +3,7 @@ Supplementary material for study of HPV16 molecular evolution
 
 * [Supplementary data](#supplementary-data)
 * [Supplementary scripts](#supplementary-scripts)
-	* [`FASTA_add_metadata.py`](FASTA_add_metadata-py).
+	* [`FASTA_add_metadata.py`](#FASTA_add_metadata-py).
 
 * [Figures](#figures)
 	* [**Figure X**. Informative title](#figure-X).
