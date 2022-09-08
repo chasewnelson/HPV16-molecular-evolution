@@ -3,6 +3,8 @@ Supplementary material for study of HPV16 molecular evolution
 
 * [Scripts](#scripts)
 	* [`FASTA_add_metadata.py`](#FASTA_add_metadata-py).
+	* [`FASTA_exclude_seqs_by_name.py`](#FASTA_exclude_seqs_by_name-py).
+	* [`FASTA_inspect.py`](#FASTA_inspect-py).
 * [Acknowledgments](#acknowledgments)
 * [Citation](#citation)
 * [Contact](#contact)
