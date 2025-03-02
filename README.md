@@ -1,4 +1,4 @@
-<img src="https://github.com/chasewnelson/HPV16-molecular-evolution/blob/main/HPV16-genome-diagram.png?raw=true" title="HPV16 genome diagram" alt="HPV16 genome diagram" align="left">
+<img src="https://github.com/chasewnelson/HPV16-molecular-evolution/blob/main/HPV16-genome-diagram.png?raw=true" title="HPV16 genome diagram" alt="HPV16 genome diagram" align="left" width="250">
 
 # HPV16 Molecular Evolution
 Supplementary material for study of HPV16 molecular evolution
