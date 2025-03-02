@@ -1,3 +1,5 @@
+<img src="https://github.com/chasewnelson/HPV16-molecular-evolution/blob/main/HPV16-genome-diagram.png?raw=true" title="HPV16 genome diagram" alt="HPV16 genome diagram" align="left">
+
 # HPV16 Molecular Evolution
 Supplementary material for study of HPV16 molecular evolution
 
@@ -201,11 +203,11 @@ Split records having multiple ALT values onto their own lines. Example:
 
 ## <a name="acknowledgments"></a>Acknowledgments
 
-This work was supported by a Research Fellowship from the National Cancer Institute (NCI), National Institutes of Health (NIH) to C.W.N. (2021-present), Lisa Mirabello group. This product is the result of work by Laurie Burdette, Lisa Mirabello, Sambit Mishra, Chase W. Nelson, Maisa Pinheiro, and Meredith Yeager.
+This study was funded by the intramural research program of the Division of Cancer Epidemiology and Genetics, National Cancer Institute, National Institutes of Health, Lisa Mirabello group.
 
 ## <a name="citation"></a>Citation
 
-When using this software, please refer to and cite this page:
+When using this software, please cite the publication as well as this page:
 
 >https://github.com/chasewnelson/HPV16-molecular-evolution
 
