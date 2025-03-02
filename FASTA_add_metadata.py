@@ -6,9 +6,6 @@ Cite   : https://github.com/chasewnelson/
 Date   : 2022-01-06
 
 Details: Outputs a modified FASTA file with metadata added to headers
-
-IN: /Users/cwnelson88/Desktop/NCI/research/HPV16
-DO: FASTA_add_metadata.py --seq_file=seq/HPV16_PAP_20200813.N-30.fasta --meta_file=seq_metadata/Lisa_hpv16meth.20190723.tsv
 """
 
 import argparse

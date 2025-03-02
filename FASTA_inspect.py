@@ -4,11 +4,6 @@ Purpose: Inspect a FASTA file for basic metrics of interest and lack of redundan
 Author : Chase W. Nelson <chase.nelson@nih.gov>
 Cite   : https://github.com/chasewnelson/
 Date   : 2022-01-29
-
-Details: <FILL IN>
-
-Returns:
-    <FILL IN>
 """
 
 import argparse

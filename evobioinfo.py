@@ -19,18 +19,6 @@ Available tuples:
 Available functions:
 - hamming(): returns the number of differences between two aligned sequences
 - summary_string(): returns summary statistics on an input list of numbers
-
---- CLASS docstring as follows [DELETE THIS LINE] ---
-Purpose: <FILL IN>
-
-Details: <FILL IN>
-
-Public attributes:
-- <ATTR1: DESCRIPTION>
-- <ATTR2: DESCRIPTION>
-
---- FUNCTION docstring as follows [DELETE THIS LINE] ---
-
 """
 
 import argparse
